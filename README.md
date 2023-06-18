@@ -1,1 +1,2 @@
-# Slither-GameSlither game using Vanilla JavaScript.
+# Slither-Game 
+Slither game using Vanilla JavaScript.
